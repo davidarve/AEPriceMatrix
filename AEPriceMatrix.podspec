@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AEPriceMatrix"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Tier based currency conversion for iOS based on the App Store Pricing Matrix."
 
   s.description  = <<-DESC
